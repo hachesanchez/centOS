@@ -11,6 +11,8 @@ Documentation for Linux
 - 2.1 [Linux Commands](2-BashCLI/2.1-Commands.md)
 - 2.2 [User Management](2-BashCLI/2.2-UserManagement.md)
 - 2.3 [Package Management](2-BashCLI/2.3-PackageManagement.md)
+- 2.4 [Bash in MacOS](2-BashCLI/2.4-BashMacOS.md)
+- 2.5 [File Management](2-BashCLI/2.5-FileManagement.md)
 
 <!--
 
