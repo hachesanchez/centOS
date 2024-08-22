@@ -19,6 +19,7 @@ Documentation for Linux
 ### 4. BASH SCRIPTING
 
 - 4.1. [Leveraging variables for dynamic scripts](4-BashScripting/4.1-LeveragingVariables.md)
+- 4.2. [Building robust scripts](4-BashScripting/4.2-RobustScripts.md)
 
 <!--
 
