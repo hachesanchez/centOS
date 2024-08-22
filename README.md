@@ -14,6 +14,12 @@ Documentation for Linux
 - 2.4 [Bash in MacOS](2-BashCLI/2.4-BashMacOS.md)
 - 2.5 [File Management](2-BashCLI/2.5-FileManagement.md)
 
+### 3. LINUX
+
+### 4. BASH SCRIPTING
+
+- 4.1. [Leveraging variables for dynamic scripts](4-BashScripting/4.1-LeveragingVariables.md)
+
 <!--
 
 > [!NOTE]
@@ -30,4 +36,5 @@ Documentation for Linux
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
  -->
