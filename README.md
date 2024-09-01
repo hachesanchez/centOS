@@ -20,7 +20,9 @@ Documentation for Linux
 
 - 4.1. [Leveraging variables for dynamic scripts](4-BashScripting/4.1-LeveragingVariables.md)
 - 4.2. [Building robust scripts](4-BashScripting/4.2-RobustScripts.md)
-- 4.2. [Work with numerical data](4-BashScripting/4.3-NumericalData.md)
+- 4.3. [Work with numerical data](4-BashScripting/4.3-NumericalData.md)
+- 4.4. [Access External Data](4-BashScripting/4.4-ExternalData.md)
+- 4.5. [Implement Logical evaluation and conditions](4-BashScripting/4.5-Tests&IF.md.md)
 
 <!--
 
